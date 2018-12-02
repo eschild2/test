@@ -4,7 +4,7 @@
 #include <time.h>
 
 
-namespace ece309{
+using namespace ece309;
 int main() {
 	IntegerSetHT set;
     set.insert(5);
@@ -18,4 +18,3 @@ int main() {
     }
     return 0;
     }
-}
