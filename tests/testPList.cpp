@@ -5,7 +5,7 @@
 // It demonstrates how we can add different
 // types of objects to the list, and remove them
 
-namespace ece309{
+using namespace ece309;
 int main(){
     PList l;
     Object O0;
@@ -30,5 +30,4 @@ int main(){
     }
     
     return 0;
-}
 }
