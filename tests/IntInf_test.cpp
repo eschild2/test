@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-namespace ece309{
+using namespace ece309;
 int main(){
     
     /*Test Case 1
@@ -283,5 +283,4 @@ int main(){
       }
  
     return 0;
-}
 }
